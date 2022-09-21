@@ -1,0 +1,8 @@
+# ignorando um arquivo
+# impressora.lib
+
+#ignorar um conjunto de arquivos
+# *.lib
+
+# ignorar uma pasta
+library/
